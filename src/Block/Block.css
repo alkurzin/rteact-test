@@ -1,0 +1,25 @@
+.test-div{
+    width: 100px;
+    height: 100px;
+    color: black;
+    border: solid 1px black; 
+    margin-bottom: 10px;
+    margin-top: 15px;
+
+}
+
+.test-div2{
+    width: 100px;
+    height: 100px;
+    color: black;
+    border: solid 1px black; 
+    margin-bottom: 10px;
+    margin-top: 15px;
+
+}
+
+.btn {
+    display: none;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
